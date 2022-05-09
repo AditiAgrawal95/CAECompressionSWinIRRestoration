@@ -15,7 +15,7 @@ Load the image in the notebook. Convert the image in the format of fixed_input v
 The images reconstructed from the CAE code will be saved and used in the SwinIR model.
 
 Steps to run the restoration Code:
-
+Running restoration is divided into two steps. Train and test. 
 Steps to run test for restoration:
 1. Download SwinIR code from https://github.com/JingyunLiang/SwinIR  
 2. Change to directory you have stored SwinIR project in
