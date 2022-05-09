@@ -13,7 +13,7 @@ In order to test your own image, Upload the image from google drive and then mou
 Load the image in the notebook. Convert the image in the format of fixed_input variable and run the file.
 
 The images reconstructed from the CAE code will be saved and used in the SwinIR model.
-</hr>
+
 Steps to run the restoration Code:
 Running restoration is divided into two parts. Train and test. Test can also run from pre trained model available in ImageRestoration folder.
 
