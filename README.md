@@ -26,7 +26,7 @@ Steps to run test for restoration:
 6. Create desktop/result folder
 7. Open https://github.com/AditiAgrawal95/CAECompressionSWinIRRestoration/blob/main/ImageRestoration/SwinIR_SR_Transfer_Learning.ipynb in colab
 8. Connect colab to your local
-9. Run JUST the last step
+9. Run all the steps other than the one marked "Training and Validation" and the next step marked as "Save model"
 10. Check result in result folder
 
 Steps to run train code:
